@@ -12,10 +12,10 @@ In diesem spielt man nicht gegen einen anderen Spieler, wie im "P" (=Player) -Mo
 Trotzdem ist es möglich, gegen ihn zu gewinenn, da er nicht besonders schnell ist. 
 
 ### Start-Menü (P / B)
-<img src="https://ibb.co/xCrjS3H" alt="Start Menü" width="480" height="270">
+<img src="https://i.ibb.co/qy2sMx5/Screenshot-2024-03-28-003912.png" alt="Start Menü" width="480" height="270">
 
 ### Gameplay bild
-<img src="https://ibb.co/frM2qX9" alt="Gameplay" width="480" height="270">
+<img src="https://i.ibb.co/1RZL70M/Screenshot-2024-03-28-003953.png" alt="Gameplay" width="480" height="270">
 
 
 ## Game Controls
