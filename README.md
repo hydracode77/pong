@@ -1,5 +1,6 @@
 # Pong
 Eine Nachbildung des Spiels "[Pong](https://de.wikipedia.org/wiki/Pong)" aus dem Jahr 1972.
+
 <img src="https://i.ibb.co/1RZL70M/Screenshot-2024-03-28-003953.png" alt="Gameplay" width="480" height="270">
 
 
