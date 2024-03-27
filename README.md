@@ -1,5 +1,5 @@
-# pong
-Eine Nachbildung des Spiels "[pong](https://de.wikipedia.org/wiki/Pong)" aus dem Jahr 1972.
+# Pong
+Eine Nachbildung des Spiels "[Pong](https://de.wikipedia.org/wiki/Pong)" aus dem Jahr 1972.
 
 ## Spielprinzip
 Rechts und links befinden sich die beiden Spieler inform eines vertikalen Rechtecks.
