@@ -11,6 +11,13 @@ Auswählbar beim Startmenü ist auch ein Bot-Modi, gekennzeichnet mit einem "B".
 In diesem spielt man nicht gegen einen anderen Spieler, wie im "P" (=Player) -Modus, sondern gegen einen Bot, der darauf programmiert ist, sich an dem Ball zu orientieren.
 Trotzdem ist es möglich, gegen ihn zu gewinenn, da er nicht besonders schnell ist. 
 
+### Start-Menü (P / B)
+<img src="https://ibb.co/xCrjS3H" alt="Start Menü" width="480" height="270">
+
+### Gameplay bild
+<img src="https://ibb.co/frM2qX9" alt="Gameplay" width="480" height="270">
+
+
 ## Game Controls
 |Taste|Response|
 |----------|----------|
