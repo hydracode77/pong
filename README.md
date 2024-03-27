@@ -1,6 +1,10 @@
 # Pong
 Eine Nachbildung des Spiels "[Pong](https://de.wikipedia.org/wiki/Pong)" aus dem Jahr 1972.
 
+### Gameplay bild
+<img src="https://i.ibb.co/1RZL70M/Screenshot-2024-03-28-003953.png" alt="Gameplay" width="480" height="270">
+
+
 ## Spielprinzip
 Rechts und links befinden sich die beiden Spieler inform eines vertikalen Rechtecks.
 Die Spieler können sich hoch und runter bewegen, um zu verhindern, dass der Ball den Rand des Bildschirms auf ihrer Seite berührt.
@@ -21,6 +25,3 @@ Trotzdem ist es möglich, gegen ihn zu gewinenn, da er nicht besonders schnell i
 
 ### Start-Menü (P / B)
 <img src="https://i.ibb.co/qy2sMx5/Screenshot-2024-03-28-003912.png" alt="Start Menü" width="480" height="270">
-
-### Gameplay bild
-<img src="https://i.ibb.co/1RZL70M/Screenshot-2024-03-28-003953.png" alt="Gameplay" width="480" height="270">
